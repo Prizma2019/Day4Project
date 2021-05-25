@@ -4,7 +4,7 @@ public class BranchingPractice {
         // created new porject
         //enabled version control
         //added .gitignore with .idea, target folder and *.iml filr
-        //made initial cimmit by keeping track of all files
+        //made initial commit by keeping track of all files
         //shared project on github/
 
     }
